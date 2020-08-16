@@ -6,7 +6,7 @@ subclass: 'post'
 author: Axel C.
 layout: post
 title:  "Fotografia"
-date:   2020-01-02 12:10:52 +0530
+date:   2020-016-08 12:10:52 +0530
 ---
   <h2>Fotografia</h2>
   <p>Un apasionado confeso a capturar imágenes de paisajes increíbles de cualquier lugar que me encuentre, desde la ventana de mi cuarto hasta las montañas del altiplano, aprendí a usar una cámara profesional desde los 11 años y a editarlas jugando con los componentes de una fotografía desde los 13 años, actualmente retrato imágenes desde mi celular (iphone11proMax) el cual me da resultados increíbles</p>
